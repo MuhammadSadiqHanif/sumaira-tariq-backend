@@ -1,0 +1,28 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/storage": "^0.3.37",
+    "@google-cloud/storage": "^5.1.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "firebase": "^7.15.5",
+    "firebase-admin": "^8.13.0",
+    "multer": "^1.4.2",
+    "node-blob": "0.0.2",
+    "node-fetch": "^2.6.0",
+    "node-localstorage": "^2.1.6",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
