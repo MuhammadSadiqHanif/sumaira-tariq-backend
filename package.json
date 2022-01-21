@@ -23,6 +23,7 @@
     "node-fetch": "^2.6.0",
     "node-localstorage": "^2.1.6",
     "nodemon": "^2.0.4",
+    "react-native-modal": "^13.0.0",
     "request": "^2.88.2"
   }
 }
